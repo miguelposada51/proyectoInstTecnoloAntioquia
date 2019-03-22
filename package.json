@@ -1,0 +1,14 @@
+{
+  "name": "repositorio",
+  "version": "1.0.1",
+  "description": "cargar repositorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Miguel Posada",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
