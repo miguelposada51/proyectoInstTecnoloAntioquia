@@ -1,0 +1,25 @@
+{
+  "name": "archivos",
+  "version": "1.0.1",
+  "description": "CRUD Archivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelposada51/proyectoInstTecnoloAntioquia.git"
+  },
+  "keywords": [
+    "archivos"
+  ],
+  "author": "Miguel Posada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelposada51/proyectoInstTecnoloAntioquia/issues"
+  },
+  "homepage": "https://github.com/miguelposada51/proyectoInstTecnoloAntioquia#readme",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
