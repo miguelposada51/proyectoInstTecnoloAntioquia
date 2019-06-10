@@ -9,6 +9,9 @@
   "author": "Miguel Posada",
   "license": "ISC",
   "dependencies": {
+    "core-util-is": "^1.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
     "yargs": "^13.2.2"
   }
 }
